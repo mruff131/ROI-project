@@ -1,0 +1,37 @@
+Income 
+--------------------
+Rental Income --
+
+Expenses
+-------------------
+Tax
+Insurance
+Utilities:
+    -Electric
+    -Water
+    -Sewer
+    -Garbage
+    -Gas
+HOA (Home owner associations fees)
+Lawn/Snow
+Vacancy
+Repairs
+capEx ()
+Property Management 10%
+Morgage 
+
+Cash Flow
+--------------
+Income -  Expenses
+
+ROI - Return On Investment (Cash on Cash)
+-------------------------------------------
+#1
+determine how does the Property cost?
+Down payment amount 
+Closing Costs
+Rehab budget
+MISC
+Total Investment:
+Annual Cash flow : (((Monthly cashflow) x 12 // total investment))) x 100 to convert to percentage
+
